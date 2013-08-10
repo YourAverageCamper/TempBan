@@ -1,0 +1,11 @@
+name: ExodusBans
+version: 1.0
+description: ExodusBans
+main: me.zeus.ExodusBans.ExodusBans
+commands:
+  extempban:
+    description: Temp Ban
+  exunban:
+    description: Unban
+  excheck:
+    description: Check ban status

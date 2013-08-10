@@ -1,0 +1,6 @@
+###############
+# Exodus Bans #
+###############
+login-format: '&4Banned for {time}: &c{reason}'
+kick-format: '&4Banned: &c{reason}'
+broadcast-format: '&6{player} &ewas banned for &4{reason}'
